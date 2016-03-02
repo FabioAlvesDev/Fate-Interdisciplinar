@@ -1,0 +1,11 @@
+adicionar arquivos para stage area
+	git add .nomedaextensão
+
+comitar alterações
+	git commit -m "mensagem de alteração"
+
+mandar alterações para repositorio servidor
+	git pull
+
+baixar alterações
+	git push
